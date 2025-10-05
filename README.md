@@ -2,7 +2,7 @@
 <h3 align="center">Final Year Student </h3>
 <br />
 
-<img width="1000" height="300" src="Screenshot 2025-10-05 230605.png">
+<img width="1200" height="350" src="Screenshot 2025-10-05 230605.png">
 
 
  ####  Welcome To My GitHub Profille.
