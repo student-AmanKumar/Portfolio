@@ -27,7 +27,7 @@
   </a>
   
   ## 💻Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,SQL,html,css,c,cpp,dbms,rdbms)](https://skilliconsdev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,c,cpp,dbms,rdbms)](https://skilliconsdev)
 
 
    
