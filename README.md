@@ -51,7 +51,8 @@
 <br>
 
 ## 📊 _Letsupgrade stats:_
-<img alt= "![alt text](image.png)" width="1020" height="400" src="https://letsupgrade.in/user/kumaraman971990454" >
+<img src="![alt text](<Screenshot 2025-10-05 135654.png">)>
+<a="https://letsupgrade.in/user/kumaraman971990454">
 
 
 ### <div align="center">Thank You For Visiting My Profile!❤️</div>
