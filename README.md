@@ -55,7 +55,6 @@
 <br>
 
 ## 📊 _Letsupgrade stats:_
-<a href="https://letsupgrade.in/user/kumaraman971990454">
 
 <img src="Screenshot 2025-10-05 135654.png">
 <br>
