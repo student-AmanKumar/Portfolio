@@ -27,12 +27,13 @@
   </a>
   
   ## 💻Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,c,cpp,dbms,rdbms)](https://skilliconsdev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,c,cpp)](https://skilliconsdev)
 ## 📅Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql,oracle)](https://skillicons.dev)
 
 ## ⚙️Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,VisualStudio2022,PowerBiDesktop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio2022)](https://skillicons.
+dev)
 
 ## 💻Software Applications:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
