@@ -3,10 +3,11 @@
 <br />
 
 
- #### _Welcome To My GitHub Profile._ 
+ #### _Welcome To My GitHub Profile._
+ 
 
   ## 🧑‍💻About Me:
- 
+  
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> Computer science **Student** and more passionate about **Software Development**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> I am studying in  ** RMPSSU Aligarh **
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" align=center /> I’m currently studying in ** BCA **  **Final Year** 
