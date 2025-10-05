@@ -27,7 +27,17 @@
   </a>
   
   ## 💻Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,c,cpp,dbms,rdbms)](https://skilliconsdev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,c,cpp,dbms,rdbms)](https://skilliconsdev)
+## 📅Databases:
+[![My Skills](https://skillicons.dev/icons?i=mysql,oracle,sqlserver)](https://skillicons.dev)
+
+## ⚙️Tools:
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,VisualStudio2022,PowerBiDesktop)](https://skillicons.dev)
+
+## 💻Software Applications:
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
    
