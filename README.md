@@ -29,7 +29,7 @@
   ## 💻Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,c,cpp,dbms,rdbms)](https://skilliconsdev)
 ## 📅Databases:
-[![My Skills](https://skillicons.dev/icons?i=mysql,oracle,sqlserver)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,oracle)](https://skillicons.dev)
 
 ## ⚙️Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,VisualStudio2022,PowerBiDesktop)](https://skillicons.dev)
