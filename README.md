@@ -2,7 +2,7 @@
 <h3 align="center">Final Year Student </h3>
 <br />
 
-<img width="1400" height="200" src="Screenshot 2025-10-05 230605.png">
+<img width="1400" height="330" src="Screenshot 2025-10-05 230605.png">
 
 
  ####  Welcome To My GitHub Profille.
@@ -61,6 +61,8 @@
 <img src="Screenshot 2025-10-05 135654.png"> -->
 <br>
 
+
+<img width="1400" height="330" src="Screenshot 2025-10-05 230918.png">
 
 ### <div align="center">Thank You For Visiting My Profile!❤️</div>
 </div>
