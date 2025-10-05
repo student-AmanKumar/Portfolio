@@ -2,7 +2,7 @@
 <h3 align="center">Web developer</h3>
 <br />
 
-<img src ="!["alt text"](<White Minimalist Profile LinkedIn Banner.png>)">
+<img src ="!["alt text"](<White Minimalist Profile LinkedIn Banner.png>)>
 
 
 
