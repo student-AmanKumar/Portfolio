@@ -48,6 +48,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=student-AmanKumar&theme=dark&hide_border=false"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-AmanKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
+<br>
+
+## 📊 _GSSoC'24 Stats:_
+<img alt= "gssoc 2024 stats" width="1020" height="400" src="https://github.com/student-AmanKumar/student-AmanKumar/blob/main/GSSoC24_Stats.png" />
+
 
 ### <div align="center">Thank You For Visiting My Profile!❤️</div>
 </div>
