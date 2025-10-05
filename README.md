@@ -2,8 +2,7 @@
 <h3 align="center">Final Year Student </h3>
 <br />
 
-<img src ="!["alt text"](<White Minimalist Profile LinkedIn Banner.png>)
-
+<img src="![alt text](<Screenshot 2025-01-08 193452.png>)"
 
 
  ####  Welcome To My GitHub Profille.
