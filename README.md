@@ -32,7 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,oracle)](https://skillicons.dev)
 
 ## ⚙️Tools:
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode) (https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode)
 
 ## 💻Software Applications:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
