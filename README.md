@@ -27,8 +27,7 @@
   </a>
   
   ## 💻Technical Skills:
-  [![My Skills](https://skillicons.dev/icons?i=c,python,cpp,java,html,css,javascript,react&perline=8)](https://skillicons
-  dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,react&perline=8)](https://skilliconsdev)
 
 
    
