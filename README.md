@@ -50,8 +50,8 @@
 </div>
 <br>
 
-## 📊 _GSSoC'24 Stats:_
-<img alt= "gssoc 2024 stats" width="1020" height="400" src="https://github.com/student-AmanKumar/student-AmanKumar/blob/main/GSSoC24_Stats.png" />
+## 📊 _Letsupgrade stats:_
+<img alt= "https://letsupgrade.in/user/kumaraman971990454" width="1020" height="400" src="https://github.com/student-AmanKumar/student-AmanKumar/>
 
 
 ### <div align="center">Thank You For Visiting My Profile!❤️</div>
