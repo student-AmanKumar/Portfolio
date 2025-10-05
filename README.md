@@ -2,7 +2,7 @@
 <h3 align="center">Final Year Student </h3>
 <br />
 
-<img width="300" height="240" src="Screenshot 2025-01-08 193452.png">
+<img width="700" height="240" src="Screenshot 2025-01-08 193452.png">
 
 
  ####  Welcome To My GitHub Profille.
@@ -10,7 +10,7 @@
 
   ## 🧑‍💻About Me:
 
-  <img align="right" alt= "coder" width="300" height="auto" src="coding-gif-1-unscreen.gif"/>
+  <img align="right" alt= "coder" width="300" height="240" src="coding-gif-1-unscreen.gif"/>
 
   
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> Computer science **Student** and more passionate about **Software Development**
