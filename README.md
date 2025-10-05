@@ -3,7 +3,8 @@
 <br />
 
 
- #### _Welcome To My GitHub Profile._
+<<<<<<< HEAD
+ #### _Welcome To My GitHub Profille.
  
 
   ## 🧑‍💻About Me:
