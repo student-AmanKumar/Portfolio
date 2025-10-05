@@ -1,5 +1,5 @@
  # <div align="center"> 👨‍🎓 Hello! I am Aman Kumar... </div>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Final Year Student </h3>
 <br />
 
 <img src ="!["alt text"](<White Minimalist Profile LinkedIn Banner.png>)
@@ -17,7 +17,12 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> **I am looking a job** in  *Web *Development**
 - <img align='left' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" align="center"> **Projects** are available at
 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)]
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)]
+  [![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=flat-square&logo=codepen&logoColor=#FF7139)]
+
 <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Connect with me:</h2>
+
 <div id="badges">
   <a href="#">
     <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
@@ -55,7 +60,6 @@
 
 <img src="Screenshot 2025-10-05 135654.png">
 <br>
-<a href="https://letsupgrade.in/user/kumaraman971990454">
 
 
 ### <div align="center">Thank You For Visiting My Profile!❤️</div>
