@@ -5,7 +5,7 @@
 <img width="1000" height="335" src="Screenshot 2025-10-06 105528.png">
 
 
- #  Welcome To My GitHub Profille.
+ # <div align="center"> Welcome To My GitHub Profille. </div>
  
 
   ## 🧑‍💻About Me:
