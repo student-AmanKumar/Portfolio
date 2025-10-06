@@ -1,8 +1,8 @@
- # <div align="center"> 👨‍🎓 Hello! I am Aman Kumar... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></div>
+ # <div align="center"> 👨‍🎓 Hello! I'm Aman Kumar... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></div>
 <h3 align="center">Final Year Student </h3>
 <br />
 
-<img width="1400" height="300" src="Screenshot 2025-10-05 230605.png">
+<img width="1400" height="300" src="Screenshot 2025-10-06 105528.png">
 
 
  ####  Welcome To My GitHub Profille.
@@ -62,7 +62,7 @@
 <br>
 
 
-<img width="1400" height="330" src="Screenshot 2025-10-05 230918.png">
+<img width="1400" height="330" src="Screenshot 2025-10-06 103341.png">
 
 ### <div align="center">Thank You For Visiting My Profile!❤️</div>
 </div>
