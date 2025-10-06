@@ -1,4 +1,4 @@
- # <div align="center"> 👨‍🎓 Hello! I am Aman Kumar... </div>
+ # <div align="center"> 👨‍🎓 Hello! I am Aman Kumar... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></div>
 <h3 align="center">Final Year Student </h3>
 <br />
 
