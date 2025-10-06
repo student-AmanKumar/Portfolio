@@ -62,7 +62,7 @@
 <br>
 
 
-<img width="auto" height="100" src="Screenshot 2025-10-06 103341.png">
+<img width="auto" height="1000" src="Screenshot 2025-10-06 103341.png">
 
 ### <div align="center">Thank You For Visiting My Profile!❤️</div>
 </div>
