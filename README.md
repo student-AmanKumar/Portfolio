@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   <a href="#">
-  <img width="100" height="100" src="image.png">
+  <img width="10" height="10" src="image.png">
   
   ## 💻 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,c,cpp)](https://skillicons.dev)
