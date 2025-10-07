@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/> <br>
   </a>
   <a href="#">
   <img width="35px" src="image.png">
