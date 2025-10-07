@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   
-  ## 💻Technical Skills:
+  ## 💻 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,c,cpp)](https://skillicons.dev)
 ## 📅Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql,oracle)](https://skillicons.dev)
