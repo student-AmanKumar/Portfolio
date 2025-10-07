@@ -31,6 +31,8 @@
    <a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
+  <a href="#">
+  <img src="Screenshot 2025-10-06 105528.pngstyle=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>">
   
   ## 💻 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,c,cpp)](https://skillicons.dev)
