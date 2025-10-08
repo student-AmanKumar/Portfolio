@@ -37,7 +37,7 @@
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
 <a href="https://github.com/student-AmanKumar" target="blank"> 
-    <img  align ="center" src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"  height="200" width="200"/>
+    <img  align ="center" src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"  height="140" width="140"/>
   </a>
 </p>
   
@@ -53,7 +53,8 @@
  <a href="#" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer">
 ## ⚙️Tools:
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=github)
+<a href="#"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" height="50"/></a>
 
 ## 💻Software Applications:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
