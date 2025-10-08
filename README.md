@@ -24,15 +24,10 @@
 
 <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Connect with me:</h2>
 
-<div id="badges">
-  <a href="https://github.com/student-AmanKumar">
-    <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
-  </a>
-   <a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
-  <a href="https://www.instagram.com/gcmtaligarh/">
-  <img width="35px" src="image.png">
+<p align="left">
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
+</p>
   
   ## 💻 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,c,cpp)](https://skillicons.dev)
