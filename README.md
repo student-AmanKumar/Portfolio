@@ -38,6 +38,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,c,cpp)](https://skillicons.dev)
 ## 📅Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql,oracle)](https://skillicons.dev)
+ <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 
 ## ⚙️Tools:
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode)
