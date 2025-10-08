@@ -64,8 +64,8 @@
 
 ## 💻Software Applications:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-<a href="https://www.microsoft.com/en/microsoft-365/excel?market=af">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/word">![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) </a>
+<a href="#" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="55" height="55"> </a>
+<a href="#" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="55" height="55"> </a>
 
 
   <br />
