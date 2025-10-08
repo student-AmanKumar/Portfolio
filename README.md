@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/aman-kumar-462a21316/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="#" height="55" width="55" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="#" height="55" width="55" /></a>
 <a href="https://github.com/student-AmanKumar" target="blank"> 
-    <img  align ="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQRdhYjGRBRadNoiJfrD3r9oK8oIMqVBuLI-xAwf-XMjd_qx4ra7c8hj7ArtGdZiZN0A&usqp=CAU" alt="Github Badge"  height="55" width="55"/>
+    <img  align ="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQRdhYjGRBRadNoiJfrD3r9oK8oIMqVBuLI-xAwf-XMjd_qx4ra7c8hj7ArtGdZiZN0A&usqp=CAU" alt="Github Badge"  height="50" width="50"/>
   </a>
 </p>
   
