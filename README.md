@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/aman-kumar-462a21316/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="#" height="55" width="55" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="#" height="55" width="55" /></a>
 <a href="https://github.com/student-AmanKumar" target="blank"> 
-    <img  align ="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-logo-png-download-2447911.png" alt="Github Badge"  height="55" width="55"/>
+    <img  align ="center" src="https://w7.pngwing.com/pngs/507/805/png-transparent-github-logo-developer-tool-logo-github-3d-icon-thumbnail.png" alt="Github Badge"  height="55" width="55"/>
   </a>
 </p>
   
@@ -54,7 +54,7 @@
  <a href="#" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a> <a href="#" target="_blank" rel="noreferrer">
 ## ⚙️Tools:
-<a href="#"> <img src="https://w7.pngwing.com/pngs/134/546/png-transparent-git-version-control-system-vcs-git-logo-github-repositories-3d-icon-thumbnail.png" width="50" height="50"/></a>
+![My Skills](https://skillicons.dev/icons?i=git)
 <a href="#"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50"/></a>
 <a href="#"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" height="50"/></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="50" height="50"/>
