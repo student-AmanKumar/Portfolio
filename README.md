@@ -51,7 +51,7 @@
 
 
 ## 📅Databases:
- <a href="#" target="blank"> <img src="https://cdn3d.iconscout.com/3d/free/preview/free-mysql-3d-icon-png-download-7578013.png?f=webp&h=700" alt="mysql" width="55" height="55"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_4zf4LgAow4lFgWtE4GJrrHqdF7PYkQv6ZA&s" alt="oracle" width="55" height="55"/> </a>
+ <a href="#" target="blank"> <img src="https://assets-v2.lottiefiles.com/a/09b38044-117d-11ee-aaa1-c31f275695db/0uQe47YWH9.gif" alt="mysql" width="55" height="55"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_4zf4LgAow4lFgWtE4GJrrHqdF7PYkQv6ZA&s" alt="oracle" width="55" height="55"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="55" height="55"/> </a> <a href="#" target="_blank" rel="noreferrer">
 ## ⚙️Tools:
 ![My Skills](https://skillicons.dev/icons?i=git)
