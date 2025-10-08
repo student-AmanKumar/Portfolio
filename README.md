@@ -19,7 +19,7 @@
 
   ## 🧑‍💻About Me:
 
-  <img align="right" alt= "coder" width="300" height="240" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+  <img align="right" alt= "coder" width="300" height="240" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> Computer science **Student** and more passionate about **Software Development**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> I am studying in  ** RMPSSU Aligarh **
