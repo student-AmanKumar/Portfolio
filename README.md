@@ -51,7 +51,7 @@
 
 
 ## 📅Databases:
- <a href="#" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="55" height="55"/> </a>
+ <a href="#" target="blank"> <img src="https://cdn3d.iconscout.com/3d/free/preview/free-mysql-3d-icon-png-download-7578013.png?f=webp&h=700" alt="mysql" width="55" height="55"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_4zf4LgAow4lFgWtE4GJrrHqdF7PYkQv6ZA&s" alt="oracle" width="55" height="55"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="55" height="55"/> </a> <a href="#" target="_blank" rel="noreferrer">
 ## ⚙️Tools:
 ![My Skills](https://skillicons.dev/icons?i=git)
@@ -60,6 +60,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="50" height="50"/>
 <img src="https://cdn3d.iconscout.com/3d/premium/thumb/microsoft-power-bi-3d-icon-png-download-8500319.png?f=webp" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/MSSQL_SSMS_21_icon.png/250px-MSSQL_SSMS_21_icon.png" width ="55" height="55"/>
 
 ## 💻Software Applications:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
