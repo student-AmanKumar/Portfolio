@@ -1,5 +1,8 @@
  # <div align="center"> 👨‍🎓 Hello! I'm Aman Kumar... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></div>
 <h3 align="center">Final Year Student </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=student-amankumar&label=Profile%20views&color=0e75b6&style=flat" alt="student-amankumar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=student-amankumar" alt="student-amankumar" /></a> </p>
 <br />
 
 <img width="1000" height="335" src="Screenshot 2025-10-06 105528.png">
